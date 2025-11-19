@@ -57,6 +57,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        cyber: {
+          glow: "hsl(var(--cyber-glow))",
+          purple: "hsl(var(--cyber-purple))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
